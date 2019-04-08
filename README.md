@@ -9,9 +9,9 @@
 
 [Tech skills](#technical-skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Additional information](#additional-information) 
 
-With a diverse background that goes well beyond tech skills, I am looking to join a team that fosters a challenging and supportive environment. I have trained as a full-stack JavaScript developer, building APIs in Express.js and frontends in React. I have focused on learning how to deliver value in a timely fashion whilst also striving to craft elegant, well-designed code.  
-Unlike many developers, I have strong interpersonal skills and excellent work ethic that I acquired through a long career as a teacher and a degree in communications. I have also briefly trained as an Agile Coach. I am involved in the JavaScript community, attending meet ups such as the London Node User Group, and I benefit from the mentorship of a senior developer.  
-While I loved teaching a class of children, a career as a developer appeals to me because of the strong emphasis on self-development. I really enjoy learning new skills and new ways of thinking, and forming opinions on the latest programming paradigms: I favour FP over OOP, immutability over mutation, and value SOLID code design where applicable. 
+ With a diverse background that goes well beyond tech skills, I am looking to join a team that fosters a challenging and supportive environment. I have trained as a full-stack JavaScript developer, building APIs in Express.js and frontends in React. I have focused on learning how to deliver value in a timely fashion whilst also striving to craft elegant, well-designed code.  
+ Unlike many developers, I have strong interpersonal skills and excellent work ethic that I acquired through a long career as a teacher and a degree in communications. I have also briefly trained as an Agile Coach. I am involved in the JavaScript community, attending meet ups such as the London Node User Group, and I benefit from the mentorship of a senior developer.  
+ While I loved teaching a class of children, a career as a developer appeals to me because of the strong emphasis on self-development. I really enjoy learning new skills and new ways of thinking, and forming opinions on the latest programming paradigms: I favour FP over OOP, immutability over mutation, and value SOLID code design where applicable. 
 I am looking for a junior position with a company that values the soft skills I bring to the table and will nurture my career as a developer.
 
 
@@ -49,7 +49,6 @@ As I learn best by doing, I have built web apps from scratch to support my explo
 |**Rock, paper, scissors**: I started with two simple functions written as part of an online training course, and built it up incrementally using Express.js and basic HTML: first as simple function (with hard-coded playerChoice) then with Express.js interpreting query string and finally using HTML buttons.   | Express.js HTML Node.js Atom  |
 
 ## **Experience**  
----
 **In Education**: teacher, tutor, governess  
 Most of my professional experience from January 2011 to July 2018 is in education. I am a UK-trained teacher of Modern Foreign Language and I have applied my skills and knowledge in many different settings (private and state schools, as well as private households) with students within a wide age-range (primary and secondary, and adults). 
 
