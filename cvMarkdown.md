@@ -16,7 +16,6 @@ I am looking for a junior position with a company that values the soft skills I 
 
 
 ## **Technical skills**  
----
 + MERN stack: 
   * MongoDB 
   * Express.js
@@ -37,8 +36,6 @@ I am looking for a junior position with a company that values the soft skills I 
 
 
 ## **Projects**  
----
-
 As I learn best by doing, I have built web apps from scratch to support my exploration of the MERN stack: 
  
 |  Description | Tech used  |
@@ -49,7 +46,6 @@ As I learn best by doing, I have built web apps from scratch to support my explo
 |**Rock, paper, scissors**: I started with two simple functions written as part of an online training course, and built it up incrementally using Express.js and basic HTML: first as simple function (with hard-coded playerChoice) then with Express.js interpreting query string and finally using HTML buttons.   | Express.js HTML Node.js Atom  |
 
 ## **Experience**  
----
 **In Education**: teacher, tutor, governess  
 Most of my professional experience from January 2011 to July 2018 is in education. I am a UK-trained teacher of Modern Foreign Language and I have applied my skills and knowledge in many different settings (private and state schools, as well as private households) with students within a wide age-range (primary and secondary, and adults). 
 
@@ -57,7 +53,6 @@ Most of my professional experience from January 2011 to July 2018 is in educatio
 I coordinated hospitality for the executive floors at Engie (#104 on the 2018 Fortune Global 500 list) with a focus on high-profile international visitors and the board of directors. I managed junior staff (PAs and other executive assistants) and the work of contractors, effectively a gatekeeper to the company’s executives.
 
 ## **Education**  
----
 **Post Graduate Certificate in Education (September 2009-June 2010)**  
 Secondary/Modern Foreign Languages – French specialist  
 _Cardiff Metropolitan University (formerly UWIC) – Cardiff, Wales_  
@@ -68,7 +63,6 @@ _SATCOM Université Paris VIII – St Denis, France_
 Multidisciplinary (i.e. semiotics, sociology, economy) study of Information, Communication and Media, including theory, case studies and practical applications. 
 
 ## **Additional information**
----
 Languages: French (native speaker), English (fluent), Spanish (beginner).  
 Right to work in the United Kingdom as EU citizen.
 
