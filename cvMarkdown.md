@@ -10,7 +10,7 @@
 [Tech skills](#technical-skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Additional information](#additional-information) 
 
 With a diverse background that goes well beyond tech skills, I am looking to join a team that fosters a challenging and supportive environment. I have trained as a full-stack JavaScript developer, building APIs in Express.js and frontends in React. I have focused on learning how to deliver value in a timely fashion whilst also striving to craft elegant, well-designed code.  
-Unlike many developers, I have strong interpersonal skills and excellent work ethic that I acquired through a long career as a teacher and a degree in communications. I have also briefly trained as an Agile Coach. I am involved in the JavaScript community, attending meet ups such as the London Node User Group, and I benefit from the mentorship of a senior developer.  
+I have strong interpersonal skills and excellent work ethic that I acquired through a long career as a teacher and a degree in communications. I have also briefly trained as an Agile Coach. I am involved in the JavaScript community, attending meet ups such as the London Node User Group, and I benefit from the mentorship of a senior developer.  
 While I loved teaching a class of children, a career as a developer appeals to me because of the strong emphasis on self-development. I really enjoy learning new skills and new ways of thinking, and forming opinions on the latest programming paradigms: I favour FP over OOP, immutability over mutation, and value SOLID code design where applicable. 
 I am looking for a junior position with a company that values the soft skills I bring to the table and will nurture my career as a developer.
 
@@ -31,11 +31,6 @@ I am looking for a junior position with a company that values the soft skills I 
 + Agile methodologies, especially SCRUM
 + JavaScript ES6 / Functional programming
 
-
-
-
-
-
 ## **Projects**  
 ---
 
@@ -43,6 +38,7 @@ As I learn best by doing, I have built web apps from scratch to support my explo
  
 |  Description | Tech used  |
 |---|---|
+|**TicTacToe**: I started with create-react-app to make a basic UI in the form  of a clickable board, then build a RESTful api to handle the requests from the frontend and tested it with Mocha and Chai. I incrementally added more functionality, and improved the UI and data structure. I’ve also used this project to learn about error handling.  | MERN stack Mocha/Chai Axios Node.js VSCode |
 |**Webscraping**: using Axios, Cheerio, MongoDB and Nodemailer, I am currently developing an app that fetches links to job adverts matching defined criteria, and stores them alongside relevant data in a database. When a new document is added, an email is sent to the address provided in the form of an HTML table.  |  Axios Cheerio MongoDB Nodemailer Node.js VSCode |
 |**Timesheet**: this is my first app that puts the whole MERN stack to work. After writing tests for the app’s functionality, I built it up incrementally, starting with a MVP. On the way, I became better acquainted with Express.js, discovered the joys of Promises with Async/await, used CRUD ops after creating a database with MongoDB (that I ran in a Docker container), and had fun with React.js and Material-UI.  | MERNstack Chai/Axios Async/await Docker Material-UI Node.js VSCode  |
 |**ToDo list**: I first wrote tests (Mocha and Axios) then coded two implementations that passed the tests (as a function and as a class). This app includes HTML eventListeners for a simple dynamic UI. I used Browserify to bundle the app for use in the browser.   | Mocha/Axios Browserify HTML Node.js VSCode  |
