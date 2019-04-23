@@ -9,12 +9,11 @@ to self-teaching,
 
 [Tech skills](#technical-skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Additional information](#additional-information) 
 
-With a diverse background that goes well beyond tech skills, I am looking to join a team that fosters a challenging and supportive environment. I have trained as a full-stack JavaScript developer, building APIs in Express.js and frontends in React. I learned how to deliver value in a timely fashion whilst also striving to craft elegant, well-designed code.  
+With a diverse background that goes well beyond tech skills, I am looking to join a team that fosters a challenging but supportive environment. I have trained as a full-stack JavaScript developer, building APIs in Express and front-ends in React. I learned how to deliver value in a timely fashion whilst also striving to craft elegant, well-designed code. 
 
-I have strong interpersonal skills that I acquired through a long career as a teacher and a degree in communications. I have also briefly trained as an Agile Coach. I am involved in the JavaScript community (e.g. London Node User Group), and I benefit from the mentorship of a senior developer.  
+I have strong interpersonal skills acquired through a long career as a teacher and a degree in communications. I have also briefly trained as an Agile Coach. I am involved in the JavaScript community (e.g. London Node User Group), and I benefit from the mentorship of a senior developer. 
 
-I am looking for a junior position with a company that values the soft skills I bring to the table and will nurture my career as a developer.
-
+I am looking for a junior position with a company that values the soft skills I bring to the table and will nurture my career as a developer. Have a look at my GitHub! https://github.com/nes11
 
 ## **Technical skills**  
 + JavaScript ES6 / Functional programming
