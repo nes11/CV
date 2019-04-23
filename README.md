@@ -1,23 +1,23 @@
 # **Agnès Garoux**
 #### Github: [nes11](https://github.com/nes11)
 
--	JavaScript enthusiast (MERN stack – Mongo, Express, React, Node)
--	Excellent work ethic
--	Committed to life-long learning and personal development
--	Qualified teacher of Modern Foreign Languages 
+-	Self-taught JavaScript developer (MERN stack – Mongo, Express, React, Node),
+- Excellent work ethic, as demonstrated throughout my career, and by my commitment
+to self-teaching,
+- Qualified teacher of Modern Foreign Languages
 
 
 [Tech skills](#technical-skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Additional information](#additional-information) 
 
-With a diverse background that goes well beyond tech skills, I am looking to join a team that fosters a challenging and supportive environment. I have trained as a full-stack JavaScript developer, building APIs in Express.js and frontends in React. I have focused on learning how to deliver value in a timely fashion whilst also striving to craft elegant, well-designed code.  
+With a diverse background that goes well beyond tech skills, I am looking to join a team that fosters a challenging and supportive environment. I have trained as a full-stack JavaScript developer, building APIs in Express.js and frontends in React. I learned how to deliver value in a timely fashion whilst also striving to craft elegant, well-designed code.  
 
-I have strong interpersonal skills and excellent work ethic that I acquired through a long career as a teacher and a degree in communications. I have also briefly trained as an Agile Coach. I am involved in the JavaScript community, attending meet ups such as the London Node User Group, and I benefit from the mentorship of a senior developer.  
+I have strong interpersonal skills that I acquired through a long career as a teacher and a degree in communications. I have also briefly trained as an Agile Coach. I am involved in the JavaScript community (e.g. London Node User Group), and I benefit from the mentorship of a senior developer.  
 
-While I loved teaching a class of children, a career as a developer appeals to me because of the strong emphasis on self-development. I really enjoy learning new skills and new ways of thinking, and forming opinions on the latest programming paradigms: I favour FP over OOP, immutability over mutation, and value SOLID code design where applicable. 
 I am looking for a junior position with a company that values the soft skills I bring to the table and will nurture my career as a developer.
 
 
 ## **Technical skills**  
++ JavaScript ES6 / Functional programming
 + MERN stack: 
   * MongoDB 
   * Express.js
@@ -30,20 +30,18 @@ I am looking for a junior position with a company that values the soft skills I 
 + Docker 
 + Postman
 + Agile methodologies, especially SCRUM
-+ JavaScript ES6 / Functional programming
 
 ## **Projects**  
-As I learn best by doing, I have built web apps from scratch to support my exploration of the MERN stack: 
  
-|  Description | Tech used  |
+|   |   |
 |---|---|
-|**TicTacToe ([front-end](https://github.com/nes11/tictactoe-frontend)/[back-end](https://github.com/nes11/tictactoe-backend))**: I started with create-react-app to make a basic UI in the form  of a clickable board, then build a RESTful api to handle the requests from the frontend and tested it with Mocha and Chai. I incrementally added more functionality, and improved the UI and data structure. I’ve also used this project to learn about error handling.  | MERN stack Mocha/Chai Axios Node.js VSCode |
-|**[Webscraping](https://github.com/nes11/WebScraping)**: using Axios, Cheerio, MongoDB and Nodemailer, I am currently developing an app that fetches links to job adverts matching defined criteria, and stores them alongside relevant data in a database. When a new document is added, an email is sent to the address provided in the form of an HTML table.  |  Axios Cheerio MongoDB Nodemailer Node.js VSCode |
-|**[Timesheets](https://github.com/nes11/Timesheets)**: this is my first app that puts the whole MERN stack to work. After writing tests for the app’s functionality, I built it up incrementally, starting with a MVP. On the way, I became better acquainted with Express.js, discovered the joys of Promises with Async/await, used [CRUD ops](https://github.com/nes11/mongodbCRUD) after creating a database with MongoDB (that I ran in a Docker container), and had fun with React.js and Material-UI.  | MERNstack Chai/Axios Async/await Docker Material-UI Node.js VSCode  |
-|**[ToDo list](https://github.com/nes11/ToDoList)**: I first wrote tests (Mocha and Axios) then coded two implementations that passed the tests (as a function and as a class). This app includes HTML eventListeners for a simple dynamic UI. I used Browserify to bundle the app for use in the browser.   | Mocha/Axios Browserify HTML Node.js VSCode  |
-|**[Rock, paper, scissors](https://github.com/nes11/RockPaperScissors)**: I started with two simple functions written as part of an online training course, and built it up incrementally using Express.js and basic HTML: first as simple function (with hard-coded playerChoice) then with Express.js interpreting query string and finally using HTML buttons.   | Express.js HTML Node.js Atom  |
+|**TicTacToe ([front-end](https://github.com/nes11/tictactoe-frontend)/[back-end](https://github.com/nes11/tictactoe-backend))**: 3-part app with an Express API server, React and Mongo. TDD with Mocha and Chai, create-react-app, RESTful api, microservices. Soon to be deployed to a three-container cluster with Docker Compose. | MERN stack Axios Docker Node.js |
+|**[Webscraping](https://github.com/nes11/WebScraping)**: A Node app using Cheerio and HTML to fetch and format lists of job offers. CSS selectors, lodash, Nodemailer, TDD |  Axios Cheerio MongoDB Node.js |
+|**[Timesheets](https://github.com/nes11/Timesheets)**:Create, store and validate timesheets with a 3-part app: an Express API server, React frontend and Mongo ([CRUD ops](https://github.com/nes11/mongodbCRUD)). API tests, Async/await, lodash, moment, uuid, Material-UI, React set up. | MERNstack Chai/Axios Docker Node.js |
+|**[ToDo list](https://github.com/nes11/ToDoList)**: Add items to your list, mark them done and delete them. HTML file running JavaScript in a script tag. Browserify, HTML eventListeners, testing | Mocha/Axios HTML Node.js VSCode  |
+|**[Rock, paper, scissors](https://github.com/nes11/RockPaperScissors)**: Play against this Express.js server. HTTP request/response, Query strings | Express.js HTML Node.js Atom  |
 
-## **Experience** 
+## **Experience**  
 **In Education**: teacher, tutor, governess  
 Most of my professional experience from January 2011 to July 2018 is in education. I am a UK-trained teacher of Modern Foreign Language and I have applied my skills and knowledge in many different settings (private and state schools, as well as private households) with students within a wide age-range (primary and secondary, and adults). 
 
@@ -60,7 +58,7 @@ The course included two 4-month school placements. I was first awarded a 2 (Good
 _SATCOM Université Paris VIII – St Denis, France_  
 Multidisciplinary (i.e. semiotics, sociology, economy) study of Information, Communication and Media, including theory, case studies and practical applications. 
 
-## **Additional information**
+## **Personal information**
 Languages: French (native speaker), English (fluent), Spanish (beginner).  
 Right to work in the United Kingdom as EU citizen.
 
